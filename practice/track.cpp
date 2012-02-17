@@ -1,3 +1,4 @@
+//This was taken from a tutorial on aishack.com
 #include "cv.h"
 #include "highgui.h"
 
